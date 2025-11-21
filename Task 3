@@ -1,0 +1,18 @@
+
+Create and Merge a Feature Branch 
+1. Create a new branch for a small update (e.g., “Add Projects Section”) 
+2. git checkout -b feature-projects 
+3. Add new section in HTML or CSS. 
+4. Commit & push branch: 
+5. git add . 
+6. git commit -m "Added projects section" 
+7. git push origin feature-projects 8. Go to GitHub → Create Pull Request → Merge into main.
+
+git checkout -b feature-projects
+
+git add .
+git commit -m "Added projects section"
+git push origin feature-projects
+
+
+
